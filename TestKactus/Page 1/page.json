@@ -51,6 +51,10 @@
     {
       "class": "bitmap",
       "id": "E9C49A91-0195-422C-A20B-5E65BF446456"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D5AB99FC-1C52-47C2-A4F7-C9F52BEF1C97"
     }
   ],
   "name": "Page 1",
