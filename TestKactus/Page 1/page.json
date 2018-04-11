@@ -55,6 +55,10 @@
     {
       "class": "shapeGroup",
       "id": "D5AB99FC-1C52-47C2-A4F7-C9F52BEF1C97"
+    },
+    {
+      "class": "text",
+      "id": "C9DDE747-C355-4899-A30F-9B4DBACA8F2A"
     }
   ],
   "name": "Page 1",
